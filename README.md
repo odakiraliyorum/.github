@@ -114,7 +114,7 @@ O zaman doğru yerdesin. OdaKiralıyorum, Türkiye'nin en kapsamlı **oda kirala
 
 - Website: [odakiraliyorum.com](https://odakiraliyorum.com)
 - Kiralık Odalar: [odakiraliyorum.com/odakirala](https://odakiraliyorum.com/odakirala)
-- Ev Arkadaşı Bul: [odakiraliyorum.com/evarkadasi](https://odakiraliyorum.com/evarkadasi)
+- Ev Arkadaşı Bul: [odakiraliyorum.com/evarkadasibul](https://odakiraliyorum.com/evarkadasibul)
 - Blog: [odakiraliyorum.com/blog](https://odakiraliyorum.com/blog)
 - LinkedIn: [linkedin.com/company/odakiraliyorum](https://linkedin.com/company/odakiraliyorum)
 
